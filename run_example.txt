@@ -1,0 +1,2 @@
+./a.out 
+Enter the names of the Shakespearean training file, Elizabethan training file, Shakespearean test file and Elizabethan test file (in that order): ShakespeareData_train_90.txt ElizabethanData_train_90.txt ShakespeareData_test_90.txt ElizabethanData_test_90.tx
